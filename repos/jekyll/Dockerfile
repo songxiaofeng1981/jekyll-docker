@@ -112,7 +112,8 @@ RUN apk --no-cache add \
   su-exec \
   npm \
   libressl \
-  yarn
+  yarn  \
+ openssh
 
 #
 # Gems
